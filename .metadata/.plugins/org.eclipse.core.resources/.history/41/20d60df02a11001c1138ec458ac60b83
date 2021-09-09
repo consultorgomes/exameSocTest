@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Painel de Exames</title>
+<link rel="icon" href="imagens/favicon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1>Criar novo Exame</h1>
+	<form name="frmExame" action= "">
+		<table>
+			<tr>
+				<td><input type="text" name = "nomeP" placeholder="NomeP"></td>
+			</tr>
+			<tr>
+				<td><input type="text" name = "nomeE" placeholder="NomeE"></td>
+			</tr>
+			<tr>
+				<td><input type="text" name = "data" placeholder="Data"></td>
+			</tr>
+			<tr>
+				<td><input type="text" name = "obs" placeholder="Obs"></td>
+			</tr>											
+		</table>
+		<input type="button" value="Adicionar">
+	
+	</form>
+
+</body>
+</html>

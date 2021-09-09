@@ -10,6 +10,6 @@
 </head>
 <body>
 	<h1>Painel de Exames</h1>
-	<a href="novo.html" class="Botao1">Novo Exame</a>
+	<a href="" class="Botao1">Novo Exame</a>
 </body>
 </html>
