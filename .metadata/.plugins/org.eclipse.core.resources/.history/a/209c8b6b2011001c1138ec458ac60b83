@@ -1,0 +1,13 @@
+package model;
+
+public class JavaBeans {
+	private String idcon;
+	private String nomePaciente;
+	private String nomeExame;
+	private String dataExame;
+	private String obs;
+	private String resultado;
+	private String createData;
+	private String updateData;
+
+}

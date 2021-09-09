@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Exames</title>
+<link rel="icon" href="imagens/exame.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1>Exames</h1>
+	<a href="">Acessar</a>
+</body>
+</html>
