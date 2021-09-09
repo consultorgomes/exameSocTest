@@ -30,11 +30,3 @@ h1 {
 	border: 1px solid #66bbff;
 	border-radius: 5px;
 }
-
-
-.Caixa2 {
-	padding: 5 px;
-	margin-bottom: 10px;
-	border: 1px solid #66bbff;
-	border-radius: 5px;
-}

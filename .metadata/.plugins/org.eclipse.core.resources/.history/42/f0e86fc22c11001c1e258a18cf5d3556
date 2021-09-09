@@ -33,6 +33,7 @@ h1 {
 
 
 .Caixa2 {
+	width: 320px;
 	padding: 5 px;
 	margin-bottom: 10px;
 	border: 1px solid #66bbff;

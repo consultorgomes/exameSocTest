@@ -11,26 +11,23 @@
 	<form name="frmExame" action="">
 		<table>
 			<tr>
-				<td><input type="text" name="nome"
+				<td><input type="text" name="nomeP"
 					placeholder="Nome do Paciente" class="Caixa1"></td>
 			</tr>
 			<tr>
-				<td><input type="text" name="exame" placeholder="Nome do Exame"
-					class="Caixa2"></td>
+				<td><input type="text" name="nomeE" placeholder="Nome do Exame"></td>
 			</tr>
 			<tr>
-				<td><input type="text" name="data" placeholder="Data do Exame"
-					class="Caixa2"></td>
+				<td><input type="text" name="data" placeholder="Data do Exame"></td>
 			</tr>
 			<tr>
 				<td><input type="text" name="obs" placeholder="Observação"
 					class="Caixa1"></td>
 			</tr>
 		</table>
-		<input type="button" value="Adicionar" class="Botao1"
-			onclick="validar()">
+		<input type="button" value="Adicionar" class="Botao1">
 
 	</form>
-<script src	= "scripts/validador.js"></script>
+
 </body>
 </html>

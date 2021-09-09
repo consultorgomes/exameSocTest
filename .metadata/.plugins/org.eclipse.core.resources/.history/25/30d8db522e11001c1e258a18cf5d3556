@@ -1,0 +1,9 @@
+/**
+ * Validação do Formulário
+ * @author Antônio Gomes Jr
+ */
+
+function validar(){
+	//teste 
+	alert('test')
+}

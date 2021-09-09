@@ -1,0 +1,13 @@
+/**
+ * Validação do Formulário
+ * @author Antônio Gomes Jr
+ */
+
+function validar(){
+	//teste 
+//	alert('test')
+	
+	let nomeP = frmExame.nomeP.value
+	let nomeE = frmExame.nomeE.value
+	let data = frmExame.data.value
+}
